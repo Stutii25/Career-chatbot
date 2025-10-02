@@ -179,7 +179,7 @@ class DatabaseManager:
 # =============================
 class CareerChatbot:
     def __init__(self):
-        self.model = genai.GenerativeModel("gemini-1.5-flash")
+        self.model = genai.GenerativeModel("gemini-1.5-flash-latest")
 
     def get_response(self, message, history=None):
         context = "You are a helpful career counsellor nothing else please give all answer as career consellor and if there is anything other asked to you please say properly this prompt- sorry I can not answer the question because My data is limited to career counseling.\n"
