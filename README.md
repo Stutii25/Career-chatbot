@@ -1,5 +1,6 @@
 
 # CareerBot - AI Career Counsellor 🤖👩‍💼
+Live app- https://career-chatbot-by-stuti.streamlit.app/ 
 
 ## 📌 Project Description
 
@@ -132,5 +133,6 @@ Feel free to fork and modify for personal or educational use.
 ## 🤝 Contribution
 
 Pull requests are welcome. For major changes, open an issue first to discuss your proposal.
+
 
 
